@@ -1,0 +1,14 @@
+{ 
+ "Autopilot": {
+    "author": "Thorn",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/Thorn133/Bilder2/master/Thorn.jpg",
+    "description": "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Beschreibung.Readme.md",
+    "sourceFile": [
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot.lc"
+    ],
+    "destinationPath": [
+      "/Apps"
+		]
+	}	
+}
