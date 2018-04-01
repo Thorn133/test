@@ -1,3 +1,4 @@
+
 { 
  "Autopilot": {
     "author": "Thorn",
@@ -6,9 +7,15 @@
     "description": "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Beschreibung.Readme.md",
     "sourceFile": [
       "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot.lc"
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot/locale.jsn",
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Auto_Lehr.wav",
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Auto_Schue.wav"
     ],
     "destinationPath": [
-      "/Apps"
+      "/Apps",
+      "/Apps/Autopilot",
+      "/Apps/Voice",
+      "/Apps/Voice"
 		]
 	}	
 }
